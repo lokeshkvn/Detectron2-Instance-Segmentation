@@ -20,7 +20,8 @@ cycler==0.10.0
 Cython==0.29.21
 decorator==4.4.2
 defusedxml==0.6.0
-detectron2==0.3 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cpu/torch1.6/index.html
+-f https://dl.fbaipublicfiles.com/detectron2/wheels/cpu/torch1.6/index.html
+detectron2==0.3
 entrypoints==0.3
 enum-compat==0.0.3
 future==0.18.2
